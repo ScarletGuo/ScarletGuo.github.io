@@ -22,27 +22,27 @@ My research interests lie in the area of database systems, with a focus on trans
 
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
-<br>SIGMOD 2021 (to appear)
+<br>SIGMOD'2021 *(to appear)*
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
-<br>FAST 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> 
+<br>FAST'2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> 
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
-<br>NVMW 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
+<br>NVMW'2021 <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 
 <b>A Statistical Perspective on Discovering Functional Dependencies in Noisy Data</b>
 <br>Yunjia Zhang, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>SIGMOD 2020 <a href="http://pages.cs.wisc.edu/~zhihan/publications/mod0552-zhangA.pdf">[*paper*]</a> 
+<br>SIGMOD'2020 <a href="http://pages.cs.wisc.edu/~zhihan/publications/mod0552-zhangA.pdf">[*paper*]</a> 
 
 <b>Unsupervised Functional Dependency Discovery for Data Preparation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>ICLR Learning from Limited Data Workshop 2019  <a href="https://arxiv.org/abs/1905.01425">[*preprint*]</a>  <a href="files/ICLR_poster_final_tiff.tiff">[*poster*]</a> 
+<br>ICLR'2019, Learning from Limited Data Workshop <a href="https://openreview.net/pdf?id=B1eos4meuV">[*paper*]</a> <a href="https://arxiv.org/abs/1905.01425">[*extended paper*]</a>  <a href="files/ICLR_poster_final_tiff.tiff">[*poster*]</a>
 
 <b>Data profiling methods for interactive data cleaning</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>MMLS 2018
+<br>MMLS'2018
 
 ## Research & Work Experience
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/fb-logo.png" width="80px" >
