@@ -17,7 +17,7 @@ My research interests lie in the area of database systems, with a focus on trans
 ## Publications 
 
 <b>Cornus: Optimizing 2PC with storage disaggregation in cloud-native DBMS</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>\*, et al.
+<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>\* et al.
 <br>*under submission (title altered)*
 <!-- <br>*under submission* <a href="https://arxiv.org/pdf/2102.10185">[*preprint*]</a>  -->
 
