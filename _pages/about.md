@@ -39,7 +39,7 @@ My research interests lie in the area of database systems, with a focus on trans
 
 <b>Unsupervised Functional Dependency Discovery for Data Preparation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>ICLR'2019, Learning from Limited Data Workshop <a href="https://openreview.net/pdf?id=B1eos4meuV">[*paper*]</a> <a href="https://arxiv.org/abs/1905.01425">[*extended paper*]</a>  <a href="files/ICLR_poster_final_tiff.tiff">[*poster*]</a>
+<br>ICLR'2019, Learning from Limited Data Workshop <a href="https://openreview.net/pdf?id=B1eos4meuV">[*paper*]</a> <a href="https://arxiv.org/abs/1905.01425">[*extended version*]</a>  <a href="files/ICLR_poster_final_tiff.tiff">[*poster*]</a>
 
 <b>Data profiling methods for interactive data cleaning</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
