@@ -16,12 +16,9 @@ My research interests lie in the area of database systems, with a focus on trans
 
 ## Latest
 
-<span style="color:rgb(64, 115, 158)">[Oct. 2021]&#128293;</span> Officially received the 2021-2022 Microsoft Research PhD Fellowship (US & Canada) !
-
+<span style="color:rgb(64, 115, 158)">[Oct. 2021]&#128293;</span> Officially received the 2021-2022 Microsoft Research PhD Fellowship (US & Canada)!
 <span style="color:rgb(64, 115, 158)">[Sep. 2021]</span> Two papers are submitted to SIGMOD 2022!
-
 <span style="color:rgb(64, 115, 158)">[Mar. 2021]&#128293;</span> Bamboo, a concurrency control protocol extending two phase locking to unlock the parallelism under high contention, has been accepted to SIGMOD 2021!
-
 <span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to FAST 2021!
 
 ## Publications 
