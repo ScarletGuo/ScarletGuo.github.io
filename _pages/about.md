@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison starting from Fall 2018. I am currently advised by [Prof. Xiangyao Yu](http://pages.cs.wisc.edu/~yxy/). Before 2019 Fall, I was advised by [Prof. Theodoros Rekatsinas](http://pages.cs.wisc.edu/~thodrek/) in my first year of PhD working on ML-driven data integration and data cleaning. I obtained my Bachelor's degree with honors in Computer Sciences from UW-Madison in 2018. 
 
-My research interests lie in the area of database systems, with a focus on transaction processing, distributed and parallel databases.
+My research interests lie in the area of database systems, with a focus on transaction processing, distributed and cloud-native databases.
 
 ## Latest
 
