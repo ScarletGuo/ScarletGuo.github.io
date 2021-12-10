@@ -23,10 +23,9 @@ My research interests lie in the area of database systems, with a focus on trans
 
 ## Publications 
 
-<b>Optimizing 2PC with storage disaggregation in cloud-native DBMS</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> et al.
-<br>*under submission (title altered)*
-<!-- <br>*under submission* <a href="https://arxiv.org/pdf/2102.10185">[*preprint*]</a>  -->
+<b>Cornus: Atomic Commitment for Cloud DBMS with Storage Disaggregation</b>
+<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein
+<br>*under submission* <a href="https://arxiv.org/submit/4070190/view">[*preprint*]</a> 
 
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
@@ -61,7 +60,7 @@ My research interests lie in the area of database systems, with a focus on trans
 <b>Research Assistant</b><br><a href="https://database.cs.wisc.edu/">UW-Madison Database Group</a> in Madison, WI<br>2018.02 - present 
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/fb-logo.png" width="80px" >
-<b>Software Engineer Intern in System & Infrastructure</b><br><a href="https://research.fb.com/category/systems-infrastructure/">Facebook</a> in Seattle, WA<br>Summer 2021 
+<b>Software Engineer Intern in System & Infrastructure</b><br><a href="https://research.fb.com/category/systems-infrastructure/">Facebook</a>, Delos Team, in Seattle, WA<br>Summer 2021 
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
 <b>Research Assistant</b><br><a href="https://hci.cs.wisc.edu/">UW-Madison HCI Group</a> in Madison, WI<br>2017.02 - 2018.05
