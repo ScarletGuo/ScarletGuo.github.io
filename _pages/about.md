@@ -23,9 +23,9 @@ My research interests lie in the area of database systems, with a focus on trans
 
 ## Publications 
 
-<b>Cornus: Atomic Commitment for Cloud DBMS with Storage Disaggregation</b>
+<b>Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein
-<br>*under submission* <a href="https://arxiv.org/submit/4070190/view">[*preprint*]</a> 
+<br>*under submission* <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> 
 
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
