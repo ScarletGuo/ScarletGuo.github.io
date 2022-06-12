@@ -62,7 +62,7 @@ My research interests lie in the area of database systems, with a focus on trans
 <b>Software Engineer Intern</b><br><a href="https://aws.amazon.com/redshift/">Amazon</a>, Redshift, in East Palo Alto, CA<br> (coming) Summer 2022
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
-<b>Affiliate Research Assistant</b><br><a href="https://www.microsoft.com/en-us/research/group/gray-systems-lab/">Microsoft Research GSL</a> in Madison, WI<br>2021.08 - present
+<b>Affiliate Research Assistant</b><br><a href="https://www.microsoft.com/en-us/research/group/gray-systems-lab/">Microsoft Research GSL</a> in Madison, WI<br>2021.08 - 2022.06
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
 <b>Research Assistant</b><br><a href="https://database.cs.wisc.edu/">UW-Madison Database Group</a> in Madison, WI<br>2018.02 - present 
