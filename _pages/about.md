@@ -16,8 +16,8 @@ My research interests lie in the area of database systems, with a focus on trans
 
 ## Latest
 
-<br><span style="color:rgb(64, 115, 158)">[Mar. 2020]</span> How Good is My HTAP System, has been accepted to **SIGMOD 2022**!
-<span style="color:rgb(64, 115, 158)">[Oct. 2021] &#128293;</span>Officially awarded the **2021-2022 Microsoft Research PhD Fellowship (US & Canada)**!
+<span style="color:rgb(64, 115, 158)">[Mar. 2020]</span> How Good is My HTAP System, has been accepted to **SIGMOD 2022**!
+<br><span style="color:rgb(64, 115, 158)">[Oct. 2021] &#128293;</span>Officially awarded the **2021-2022 Microsoft Research PhD Fellowship (US & Canada)**!
 <br><span style="color:rgb(64, 115, 158)">[Mar. 2021] &#128293;</span>Bamboo, a concurrency control protocol extending two phase locking to unlock the parallelism under high contention, has been accepted to **SIGMOD 2021**!
 <br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to **FAST 2021**!
 
