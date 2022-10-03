@@ -16,22 +16,22 @@ My research interests lie in the area of database systems, with a focus on trans
 
 ## Latest
 
-<!-- <span style="color:rgb(64, 115, 158)">[Sep. 2022] &#128293;</span> Cornus: Atomic Commit for a Cloud DBMS with Storage Disaggregation, has been accepted to **VLDB 2023**! -->
-<span style="color:rgb(64, 115, 158)">[Mar. 2022]</span> How Good is My HTAP System, has been accepted to **SIGMOD 2022**!
+<span style="color:rgb(64, 115, 158)">[Sep. 2022] &#128293;</span> Cornus: Atomic Commit for a Cloud DBMS with Storage Disaggregation, has been accepted to **VLDB 2023**!
+<br><span style="color:rgb(64, 115, 158)">[Mar. 2022]</span> How Good is My HTAP System, has been accepted to **SIGMOD 2022**!
 <br><span style="color:rgb(64, 115, 158)">[Oct. 2021] &#128293;</span>Officially awarded the **2021-2022 Microsoft Research PhD Fellowship (US & Canada)**!
 <br><span style="color:rgb(64, 115, 158)">[Mar. 2021] &#128293;</span>Bamboo, a concurrency control protocol extending two phase locking to unlock the parallelism under high contention, has been accepted to **SIGMOD 2021**!
 <br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to **FAST 2021**!
 
 ## Publications 
 
-<b>How Good is My HTAP System?</b>
-<br>Elena Milkai, Yannis Chronis, Kevin Gaffney, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Jignesh Patel, Xiangyao Yu
-<br>SIGMOD'2022 *(to appear)* 
-
 <b>Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein
-<br>*under submission*
+<br>VLDB'2023 *(to appear)*
 <!-- <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> -->
+
+<b>How Good is My HTAP System?</b>
+<br>Elena Milkai, Yannis Chronis, Kevin Gaffney, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Jignesh Patel, Xiangyao Yu
+<br>SIGMOD'2022
 
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
