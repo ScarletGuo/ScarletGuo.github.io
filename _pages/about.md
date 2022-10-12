@@ -27,7 +27,7 @@ My research interests lie in the area of database systems, with a focus on trans
 <b>Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein
 <br>VLDB'2023 *(to appear)*
-<!-- <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> -->
+<a href="https://arxiv.org/pdf/2102.10185.pdf">[*extended version*]</a>
 
 <b>How Good is My HTAP System?</b>
 <br>Elena Milkai, Yannis Chronis, Kevin Gaffney, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Jignesh Patel, Xiangyao Yu
