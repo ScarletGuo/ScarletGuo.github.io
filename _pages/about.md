@@ -47,7 +47,7 @@ My research interests lie in the area of database systems, with a focus on trans
 
 <b>A Statistical Perspective on Discovering Functional Dependencies in Noisy Data</b>
 <br>Yunjia Zhang, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>SIGMOD'2020 <a href="http://pages.cs.wisc.edu/~zhihan/publications/mod0552-zhangA.pdf">[*paper*]</a> 
+<br>SIGMOD'2020 <a href="http://pages.cs.wisc.edu/~zhihan/publications/mod0552-zhangA.pdf">[*paper*]</a>  <a href="https://github.com/sis-ethz/Profiler-Public">[*code*]</a> 
 
 <b>Unsupervised Functional Dependency Discovery for Data Preparation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
