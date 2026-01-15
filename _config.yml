@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhihan (Scarlet) Guo"
   avatar           : "profile.png"
-  bio              : "Database Developer @Salesforce\nPh.D \n@ UW-Madison" #"Your biography for the left-hand sidebar"
+  bio              : "Database Developer @Salesforce\n Ph.D @UW-Madison" #"Your biography for the left-hand sidebar"
   location         : "San Francisco, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
