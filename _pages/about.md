@@ -10,16 +10,21 @@ redirect_from:
 
 ## Biography
 
-I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison starting from Fall 2018. I am currently advised by [Prof. Xiangyao Yu](http://pages.cs.wisc.edu/~yxy/). Before 2019 Fall, I was advised by Prof. Theodoros Rekatsinas in my first year of PhD working on ML-driven data integration and data cleaning. I obtained my Bachelor's degree with honors in Computer Sciences from UW-Madison in 2018. 
+I am a software engineer working on **core database engine development** at Salesforce, with a focus on:
+- **Cloud-native, distributed OLTP systems**: transaction processing, asynchronous networking, replication, and fault tolerance for large-scale production databases.
+- **AI agents for database infrastructure**: applying LLMs and data-driven agents to feature rollout, incident diagnosis, and operational automation. I am particularly interested in the intersection of **database systems, distributed systems, and AI-native infrastructure**.
 
-My research interests lie in the area of database systems, with a focus on transaction processing, distributed and cloud-native databases.
+I approach system building with a strong sense of pragmatism, caring deeply about **production impact**, product quality, and the **people** who build, operate, and rely on these systems. I value **structured thinking** when navigating complex design spaces, and I am motivated by building systems that are not only correct and scalable, but also usable and humane.
+
+I received my Ph.D. in Computer Sciences from the University of Wisconsin–Madison, where I worked with Prof. Xiangyao Yu. My research focused on transaction processing and cloud-native databases, with publications at SIGMOD, VLDB, and FAST. During my Ph.D., I also collaborated with industry research labs including Microsoft Research, Meta, and AWS Redshift.
 
 ## Latest
 
-<span style="color:rgb(64, 115, 158)">[Sep. 2022] &#128293;</span> Cornus: Atomic Commit for a Cloud DBMS with Storage Disaggregation, has been accepted to **VLDB 2022** (will be presented in VLDB 2023)!
-<br><span style="color:rgb(64, 115, 158)">[Mar. 2022]</span> How Good is My HTAP System, has been accepted to **SIGMOD 2022**!
-<br><span style="color:rgb(64, 115, 158)">[Oct. 2021] &#128293;</span>Officially awarded the **2021-2022 Microsoft Research PhD Fellowship (US & Canada)**!
-<br><span style="color:rgb(64, 115, 158)">[Mar. 2021] &#128293;</span>Bamboo, a concurrency control protocol extending two phase locking to unlock the parallelism under high contention, has been accepted to **SIGMOD 2021**!
+<br><span style="color:rgb(64, 115, 158)">[Dec. 2023]</span> Joined Salesforce, working on core database engine development for a cloud-native distributed OLTP system.
+<br><span style="color:rgb(64, 115, 158)">[Sep. 2022] &#128293;</span> **Cornus**, optimized two-phase commit for Cloud OLTP, has been accepted to VLDB 2022 (presented in 2023)!
+<br><span style="color:rgb(64, 115, 158)">[Mar. 2022]</span> How Good is My HTAP System, has been accepted to SIGMOD 2022!
+<br><span style="color:rgb(64, 115, 158)">[Oct. 2021] &#128293;</span> Awarded the **2021-2022 Microsoft Research PhD Fellowship (US & Canada)**!
+<br><span style="color:rgb(64, 115, 158)">[Mar. 2021] &#128293;</span> **Bamboo**, optimized two-phase locking for high contention, has been accepted to SIGMOD 2021!
 <br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to **FAST 2021**!
 
 ## Publications 
@@ -27,7 +32,7 @@ My research interests lie in the area of database systems, with a focus on trans
 <b>Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein
 <br>VLDB'2022 
-<a href="https://www.vldb.org/pvldb/vol16/p379-guo.pdf">[*paper*]</a> <a href="https://arxiv.org/pdf/2102.10185.pdf">[*extended version*]</a> 
+<a href="https://www.vldb.org/pvldb/vol16/p379-guo.pdf">[*paper*]</a> <a href="https://arxiv.org/pdf/2102.10185.pdf">[*extended version*]</a>
 
 <b>How Good is My HTAP System?</b>
 <br>Elena Milkai, Yannis Chronis, Kevin Gaffney, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Jignesh Patel, Xiangyao Yu
@@ -59,11 +64,14 @@ My research interests lie in the area of database systems, with a focus on trans
 
 ## Research & Work Experience
 
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/aws-logo.png" width="80px" >
-<b>Software Engineer Intern</b><br><a href="https://aws.amazon.com/redshift/">Amazon</a>, Redshift, in East Palo Alto, CA<br> (coming) Summer 2022
+<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/salesforce-logo.png" width="80px" >
+<b>Senior Member of Technical Staff</b><br><a href="https://aws.amazon.com/redshift/">Salesforce</a>, SDB, in San Francisco, CA<br> 2023.12 - present
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
-<b>Research Assistant</b><br><a href="https://database.cs.wisc.edu/">UW-Madison Database Group</a> in Madison, WI<br>2018.02 - present 
+<b>Research Assistant</b><br><a href="https://database.cs.wisc.edu/">UW-Madison Database Group</a> in Madison, WI<br>2018.02 - 2023.12
+
+<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/aws-logo.png" width="80px" >
+<b>Software Engineer Intern</b><br><a href="https://aws.amazon.com/redshift/">Amazon</a>, Redshift, in East Palo Alto, CA<br> 2022.06 - 2022.09
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
 <b>Affiliate Research Assistant</b><br><a href="https://www.microsoft.com/en-us/research/group/gray-systems-lab/">Microsoft Research GSL</a> in Madison, WI<br>2021.08 - 2022.06
