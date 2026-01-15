@@ -16,7 +16,7 @@ I am a software engineer working on **core database engine development** at Sale
 
 I approach system building with a strong sense of pragmatism, caring deeply about **production impact**, product quality, and the **people** who build, operate, and rely on these systems. I value **structured thinking** when navigating complex design spaces, and I am motivated by building systems that are not only correct and scalable, but also usable and humane.
 
-I received my Ph.D. in Computer Sciences from the University of Wisconsin–Madison, where I worked with Prof. Xiangyao Yu. My research focused on transaction processing and cloud-native databases, with publications at SIGMOD, VLDB, and FAST. During my Ph.D., I also collaborated with industry research labs including Microsoft Research, Meta, and AWS Redshift.
+I received my **Ph.D. in Computer Sciences** from the **University of Wisconsin–Madison**, where I worked with [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/). My research focused on transaction processing and cloud-native databases, with publications at SIGMOD, VLDB, and FAST. I was a recipient of the **Microsoft Research PhD Fellowship**. Before 2020, I was advised by [Prof. Theodoros Rekatsinas](https://thodrek.github.io/) in my first year of PhD working on ML-driven data integration and data cleaning.
 
 ## Latest
 
