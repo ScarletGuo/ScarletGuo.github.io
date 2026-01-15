@@ -14,7 +14,7 @@ I am a software engineer working on core database engine development at Salesfor
 - **Cloud-native, distributed OLTP systems**: transaction processing, asynchronous networking, replication, and fault tolerance for large-scale production databases.
 - **AI agents for database infrastructure**: build AI agents for feature rollout, incident diagnosis, and operational automation, leveraging Agentforce.
 
-I am particularly interested in the intersection of **database systems, distributed systems, and AI-native infrastructure**.
+I am particularly interested in the intersection of **database systems, distributed systems, and AI-native infrastructure**. I also have a strong personal interest in **AI for healthcare**.
 
 I approach system building with a strong sense of pragmatism, caring deeply about **production impact & quality**, and the **people** who build, operate, and rely on these systems. I value **structured thinking** when navigating complex design spaces, and I am motivated by building systems that are not only correct and scalable, but also usable and humane.
 
