@@ -1,0 +1,98 @@
+# Work, research and teaching history.
+#
+# Fields:
+#   role      required — job title
+#   org       required — organisation name (this is the linked part)
+#   url       optional — where org links to
+#   team      optional — appended after org, e.g. ", Database"
+#   place     optional — city, state
+#   when      required — shown in the left gutter, e.g. "2023 —", "2018–23"
+#   logo      optional — filename in /images/logo/small/
+#   selected  optional — true puts it in "Selected Experience" on the home page
+#
+# Order here is the order on the page. Keep newest first within each group.
+
+work:
+  - role: "Lead Member of Technical Staff"
+    org: "Salesforce"
+    url: "https://www.salesforce.com/"
+    team: ", Database"
+    place: "San Francisco, CA"
+    when: "2023—26"
+    logo: "salesforce.png"
+    selected: true
+
+  - role: "Research Assistant"
+    org: "UW–Madison Database Group"
+    url: "https://database.cs.wisc.edu/"
+    place: "Madison, WI"
+    when: "2018–23"
+    logo: "uwm.png"
+    selected: true
+
+  - role: "Software Engineer Intern"
+    org: "Amazon Redshift"
+    url: "https://aws.amazon.com/redshift/"
+    place: "East Palo Alto, CA"
+    when: "2022"
+    logo: "aws.png"
+
+  - role: "Affiliate Research Assistant"
+    org: "Microsoft Research, Gray Systems Lab"
+    url: "https://www.microsoft.com/en-us/research/group/gray-systems-lab/"
+    place: "Madison, WI"
+    when: "2021–22"
+    logo: "ms.png"
+
+  - role: "Software Engineer Intern, Systems & Infrastructure"
+    org: "Facebook"
+    url: "https://research.fb.com/category/systems-infrastructure/"
+    team: ", Delos"
+    place: "Seattle, WA"
+    when: "2021"
+    logo: "fb.png"
+
+earlier:
+  - role: "Research Assistant"
+    org: "UW–Madison HCI Group"
+    url: "https://hci.cs.wisc.edu/"
+    place: "Madison, WI"
+    when: "2017–18"
+    logo: "uwm.png"
+
+  - role: "Research Assistant"
+    org: "Center for Healthy Minds"
+    url: "https://centerhealthyminds.org/"
+    place: "Madison, WI"
+    when: "2017"
+    logo: "hm.png"
+
+  - role: "Research Assistant"
+    org: "Child Emotion Lab, Waisman Center"
+    url: "https://childemotion.waisman.wisc.edu/"
+    place: "Madison, WI"
+    when: "2016–17"
+    logo: "waisman.png"
+
+teaching:
+  - role: "Teaching Assistant"
+    org: "CS 564 — Database Management Systems"
+    url: "https://klklassy.com/cs564-fall19/"
+    place: "UW–Madison"
+    when: "Fall 2019"
+    logo: "uwm.png"
+
+education:
+  - role: "Ph.D. in Computer Sciences"
+    org: "University of Wisconsin–Madison"
+    url: "https://www.cs.wisc.edu/"
+    place: "advised by Prof. Xiangyao Yu"
+    when: "2018–23"
+    logo: "uwm.png"
+
+  - role: "B.S. (Hons.) in Computer Sciences"
+    org: "University of Wisconsin–Madison"
+    url: "https://www.cs.wisc.edu/"
+    place: "Madison, WI"
+    when: "2015–18"
+    logo: "uwm.png"

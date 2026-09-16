@@ -1,0 +1,76 @@
+# Publications, newest first.
+#
+# To add one, copy a block and fill it in. Fields:
+#   title     required
+#   authors   required — wrap your own name in **double asterisks** to bold it
+#   venue     required — short name only (VLDB, SIGMOD, FAST ...)
+#   year      required — shown in the left gutter
+#   selected  optional — true puts it in "Selected Publications" on the home page
+#   links     optional — list of {name, url}; a local PDF goes in /files/
+#
+# Nothing else needs editing: both the home page and /publications/ read this file.
+
+- title: "Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation"
+  authors: "**Zhihan Guo**, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein"
+  venue: "VLDB"
+  year: 2022
+  selected: true
+  links:
+    - name: "Paper"
+      url: "https://www.vldb.org/pvldb/vol16/p379-guo.pdf"
+    - name: "Extended"
+      url: "https://arxiv.org/pdf/2102.10185.pdf"
+
+- title: "How Good is My HTAP System?"
+  authors: "Elena Milkai, Yannis Chronis, Kevin Gaffney, **Zhihan Guo**, Jignesh Patel, Xiangyao Yu"
+  venue: "SIGMOD"
+  year: 2022
+
+- title: "Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking"
+  authors: "**Zhihan Guo**, Kan Wu, Cong Yan, Xiangyao Yu"
+  venue: "SIGMOD"
+  year: 2021
+  selected: true
+  links:
+    - name: "Paper"
+      url: "/files/rdm447-guoA.pdf"
+    - name: "Extended"
+      url: "https://arxiv.org/pdf/2103.09906.pdf"
+
+- title: "The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus"
+  authors: "Kan Wu, **Zhihan Guo**, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau"
+  venue: "FAST"
+  year: 2021
+  links:
+    - name: "Paper"
+      url: "https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf"
+    - name: "NVMW version"
+      url: "https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf"
+
+- title: "A Statistical Perspective on Discovering Functional Dependencies in Noisy Data"
+  authors: "Yunjia Zhang, **Zhihan Guo**, Theodoros Rekatsinas"
+  venue: "SIGMOD"
+  year: 2020
+  links:
+    - name: "Paper"
+      url: "http://pages.cs.wisc.edu/~zhihan/publications/mod0552-zhangA.pdf"
+    - name: "Code"
+      url: "https://github.com/sis-ethz/Profiler-Public"
+
+- title: "Unsupervised Functional Dependency Discovery for Data Preparation"
+  authors: "**Zhihan Guo**, Theodoros Rekatsinas"
+  venue: "ICLR Workshop"
+  year: 2019
+  selected: true
+  links:
+    - name: "Paper"
+      url: "https://openreview.net/pdf?id=B1eos4meuV"
+    - name: "Extended"
+      url: "https://arxiv.org/abs/1905.01425"
+    - name: "Poster"
+      url: "/files/ICLR_poster_final_tiff.tiff"
+
+- title: "Data Profiling Methods for Interactive Data Cleaning"
+  authors: "**Zhihan Guo**, Theodoros Rekatsinas"
+  venue: "MMLS"
+  year: 2018

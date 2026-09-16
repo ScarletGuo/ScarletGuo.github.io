@@ -1,0 +1,24 @@
+{% comment %}
+  Renders experience / teaching rows. Call with:  {% include job-list.html items=some_list %}
+  Items come from _data/experience.yml.
+{% endcomment %}
+<div class="rows">
+  {% for job in include.items %}
+    <div class="row">
+      <div class="when">{{ job.when }}</div>
+      <div>
+        <div class="job">
+          {% if job.logo %}
+            <img class="job-logo" src="{{ '/images/logo/small/' | append: job.logo | relative_url }}" alt="{{ job.org }}">
+          {% endif %}
+          <div>
+            <p class="title-line">{{ job.role }}</p>
+            <p class="org">
+              {% if job.url %}<a href="{{ job.url }}">{{ job.org }}</a>{% else %}{{ job.org }}{% endif %}{{ job.team }}{% if job.place %} <span class="dot">·</span> {{ job.place }}{% endif %}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

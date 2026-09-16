@@ -1,29 +1,11 @@
-# main links links
+# Sidebar navigation. `url` must match each page's `permalink` exactly —
+# that is what marks the current page with aria-current="page".
 main:
-
-  # - title: "Biography"
-  #   url: /biography/
+  - title: "About"
+    url: /
 
   - title: "Publications"
-    url: "https://scarletguo.github.io#publications"
+    url: /publications/
 
-  - title: "Research & Work Experience"
-    url: "https://scarletguo.github.io#research--work-experience"   
-
-  - title: "Teaching"
-    url: "https://scarletguo.github.io#teaching" 
-
-  # - title: "Education"
-  #   url: "education"   
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Experience"
+    url: /experience/

@@ -1,3 +1,8 @@
 _site/
 
 .DS_Store
+
+# local gem install (bundle config set --local path vendor/bundle)
+vendor/
+.bundle/
+_site/

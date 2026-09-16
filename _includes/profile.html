@@ -1,0 +1,27 @@
+{% comment %}
+  Sidebar: identity, contact links, and site navigation.
+  Identity comes from site.author in _config.yml; nav comes from _data/navigation.yml.
+{% endcomment %}
+<aside class="side">
+  <img class="avatar" src="{{ '/images/profile-sm.png' | relative_url }}" alt="{{ site.author.name }}">
+
+  <div class="id">
+    <p class="name">{{ site.author.name }}</p>
+    <p>{{ site.author.title }}<br>{{ site.author.employer }}</p>
+    <p class="place">{{ site.author.location }}</p>
+  </div>
+
+  <div class="side-links">
+    {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
+    {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>{% endif %}
+    {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Scholar</a>{% endif %}
+    {% if site.author.email_rot13 %}<a class="js-email" data-a="{{ site.author.email_rot13 }}" href="#">Email</a>{% endif %}
+  </div>
+
+  <nav class="side-nav">
+    {% for item in site.data.navigation.main %}
+      {% assign target = item.url | relative_url %}
+      <a href="{{ target }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+</aside>
