@@ -31,6 +31,9 @@
   authors: "Elena Milkai, Yannis Chronis, Kevin Gaffney, **Zhihan Guo**, Jignesh Patel, Xiangyao Yu"
   venue: "SIGMOD"
   year: 2022
+  links:
+    - name: "Paper"
+      url: "https://dl.acm.org/doi/epdf/10.1145/3514221.3526148"
 
 - title: "Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking"
   authors: "**Zhihan Guo**, Kan Wu, Cong Yan, Xiangyao Yu"
