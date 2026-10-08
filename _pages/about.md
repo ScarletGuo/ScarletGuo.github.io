@@ -21,7 +21,7 @@ redirect_from:
       <strong>Ph.D. in Computer Sciences, University of Wisconsin–Madison</strong>
       <p class="award"><strong>Microsoft Research PhD Fellowship</strong><span class="education-meta">2021–22 · US &amp; Canada</span></p>
       <p>2019 - 2023 Advised by <a href="https://pages.cs.wisc.edu/~yxy/">Prof. Xiangyao Yu</a>.</p>
-      <p>Focused on transaction processing and cloud-native databases, leading to publications at SIGMOD, VLDB, and FAST.</p>
+      <p>Focused on <a href="https://asset.library.wisc.edu/1711.dl/CAFURZ5VKWTPY8M/R/file-b94b9.pdf">scalable transaction processing in cloud-native OLTP database systems</a>, leading to publications at SIGMOD, VLDB, and FAST.</p>
       <p>2018 - 2019 Advised by <a href="https://thodrek.github.io/">Prof. Theodoros Rekatsinas</a></p>
       <p>Focused on ML-driven data integration and data cleaning.</p>
     </li>
