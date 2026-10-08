@@ -4,7 +4,8 @@
 #   title     required
 #   authors   required — wrap your own name in **double asterisks** to bold it
 #   venue     required — short name only (VLDB, SIGMOD, FAST ...)
-#   year      required — shown in the left gutter
+#   year      required — shown next to the venue
+#   note      optional — short status after the venue, e.g. "To appear"
 #   selected  optional — true puts it in "Selected Publications" on the home page
 #   links     optional — list of {name, url}; a local PDF goes in /files/
 #
@@ -12,8 +13,9 @@
 
 - title: "Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases"
   authors: "Wenjie Hu, Xinjing Zhou, **Zhihan Guo**, Xiangpeng Hao, Xiangyao Yu"
-  venue: "SIGMOD (to appear)"
+  venue: "SIGMOD"
   year: 2027
+  note: "To appear"
   selected: true
 
 - title: "Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation"

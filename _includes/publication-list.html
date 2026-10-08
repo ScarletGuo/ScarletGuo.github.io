@@ -4,13 +4,13 @@
 {% endcomment %}
 <div class="rows">
   {% for pub in include.items %}
-    <div class="row">
-      <div class="when">{{ pub.year }}</div>
+    <div class="row row-full">
       <div>
         <h2 class="pub-title">{{ pub.title }}</h2>
         <p class="authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
         <p class="venue">
-          <span class="tag">{{ pub.venue }}</span>
+          <span class="tag">{{ pub.venue }} {{ pub.year }}</span>
+          {% if pub.note %}<span class="note">{{ pub.note }}</span>{% endif %}
           {% for link in pub.links %}
             <a class="chip" href="{{ link.url | relative_url }}">{{ link.name }}</a>
           {% endfor %}

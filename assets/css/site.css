@@ -227,6 +227,7 @@ section + section{ padding-top: 2.6rem; }
   border-top: 1px solid transparent;
 }
 .row + .row{ border-top-color: var(--rule); }
+.row-full{ grid-template-columns: 1fr; }
 .when{
   font-size: .82rem;
   font-weight: 500;
