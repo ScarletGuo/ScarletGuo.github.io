@@ -10,6 +10,12 @@
 #
 # Nothing else needs editing: both the home page and /publications/ read this file.
 
+- title: "Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases"
+  authors: "Wenjie Hu, Xinjing Zhou, **Zhihan Guo**, Xiangpeng Hao, Xiangyao Yu"
+  venue: "SIGMOD (to appear)"
+  year: 2027
+  selected: true
+
 - title: "Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation"
   authors: "**Zhihan Guo**, Xinyu Zeng, Kan Wu, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein"
   venue: "VLDB"
